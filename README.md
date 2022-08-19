@@ -1,7 +1,8 @@
 # WARP-PLUS-FIX
 warp plus script | 在原ALIILAPRO大佬的基础上, 加入了超时和速度检测
 
-# 联动 | 将Cloudflare WARP的主机托管中心锁定为HKG(香港), 以换取低延时warp+.
+## 联动
+将Cloudflare WARP的主机托管中心锁定为HKG(香港), 以换取低延时warp+.
 https://github.com/Windla/WARP-PLUS-HKG
 
 ## 请认真查看py文件内的设置说明!
