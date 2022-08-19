@@ -7,12 +7,17 @@ warp plus script | 在原ALIILAPRO大佬的基础上, 加入了超时和速度�
 https://github.com/Windla/WARP-PLUS-HKG
 
 ## 请认真查看py文件内的设置说明!
+孩子啥也不会, 瞎写的
+
+坚持能用就行原则 你说得对
+
 
 ## 下载
 https://github.com/Windla/WARP-PLUS-FIX/archive/refs/heads/main.zip
 
 ## 请确保你有这些库
 pip install requests
+
 pip install eventlet
 
 ## 其他
