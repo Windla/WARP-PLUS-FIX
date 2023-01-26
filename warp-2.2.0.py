@@ -9,7 +9,7 @@ import os
 import sys
 import eventlet
 
-os.system("title WARP-PLUS-CLOUDFLARE By ALIILAPRO + Wind_la(fix)") # 原作者 ALIILAPRO
+os.system("title WARP-PLUS-CLOUDFLARE By ALIILAPRO + Windla(fix)") # 原作者 ALIILAPRO
 
 
 #
