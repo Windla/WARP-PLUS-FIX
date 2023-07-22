@@ -20,8 +20,7 @@ warp plus script | 在原ALIILAPRO大佬的基础上, 加入了超时和速度�
 ## 安装
 
 ```
-pip install requests
-pip install eventlet
+pip install -r requirements.txt
 ```
 
 ## 使用
