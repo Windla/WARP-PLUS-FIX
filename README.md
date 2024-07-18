@@ -29,9 +29,6 @@ pip install requests
 
 运行 `warp-*.*.*.py`
 
-## 关注我
-  [Bilibili](https://space.bilibili.com/358002685)
-
 ## Star!
 
 [![Stargazers over time](https://starchart.cc/Windla/WARP-PLUS-FIX.svg)](https://starchart.cc/Windla/WARP-PLUS-FIX)
